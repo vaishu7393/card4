@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+section{
+    background-color: whitesmoke;
+    width:400px;
+    height: auto;
+    border:saddlebrown;
+    margin: auto;
+    padding: 5%;
+}
+
+img{
+    border-radius: 10%;
+    box-shadow: 25px 25px lightpink;
+}
+
+li{
+    margin-left: 5%;
+    color: rgb(80,90,100);
+}
